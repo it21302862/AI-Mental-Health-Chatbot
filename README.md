@@ -18,9 +18,9 @@ It is **NOT a medical tool** and should NOT be used for diagnosis, treatment, or
 
 # 📸 Demo
 
-> Add screenshots or a demo GIF here
+> demo
 
-| ![](demo.png) | 
+![Demo](./demo.png)
 
 ---
 
