@@ -23,6 +23,7 @@ It is **NOT a medical tool** and should NOT be used for diagnosis, treatment, or
 ![Demo](./demo.png)
 
 ---
+![Demo-Video](./Recording%202026-06-30%20001004.mp4)
 
 # ✨ Features
 
